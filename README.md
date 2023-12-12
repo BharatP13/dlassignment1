@@ -1,7 +1,5 @@
 **Droupots of DL**
-Certainly! It seems like you have provided a code snippet for a machine learning model using TensorFlow and Keras to classify the Iris dataset. Let's create a README file to explain the code and the concept of dropout.
 
-markdown
 # Iris Flower Classification with Dropout in Neural Network
 
 ## Overview
